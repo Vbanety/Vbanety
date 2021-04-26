@@ -3,12 +3,19 @@
 <header display="flex-inline">
 <p width="400">It's Viny here, I’m currently working on TIVIT as SUPPORT SERVICE DESK, and keeping a hard routine in studies for to become a FrondEnd Developer.</p>
   
-  <img src="https://i.ibb.co/1dSK4zz/profile-git.png" width="300" height="300" position="relative" background-repeat="no-repeat">
+  <img src="https://i.ibb.co/1dSK4zz/profile-git.png" width="auto" height="300" position="absolute" float="right" >
 </header>
 
 
 ## Connect with ME 👋 😃
-- [![linkedin](https://www.linkedin.com/in/vinicius-batista-815983137/)]
+<p align="center">
+<a href="https://www.linkedin.com/in/vinicius-batista-815983137/">
+  <img src="https://hand-landing-page-curved.netlify.app/images/facebook.svg">
+</a>
+<a href="https://www.instagram.com/viny_batista_10/">
+  <img src="https://hand-landing-page-curved.netlify.app/images/instagram.svg">
+</a>
+</p>
 <!--
 
 
