@@ -8,7 +8,9 @@
 <p width="400">It's Viny here, I’m currently working on TIVIT as SUPPORT SERVICE DESK, and keeping a hard routine in studies for to become a FrondEnd Developer.
 This is my skill that I'm specializing.</p>
 
-
+<picture align="center">
+  <img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" width="400">
+  </picture>
 
 ## Connect with ME 👋 😃
 <p align="left" backgroundcolor="#4d0099" width="100%">
