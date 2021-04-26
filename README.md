@@ -11,16 +11,16 @@ This is my skill that I'm specializing.</p>
 
 
 ## Connect with ME 👋 😃
-<p align="center" border="1px solid #fff">
+<p align="left" backgroundcolor="#4d0099" width="100%">
 <a href="https://www.linkedin.com/in/vinicius-batista-815983137/">
   <img src="https://hand-landing-page-curved.netlify.app/images/facebook.svg" marginLeft="20" marginRight="20">
-</a><p>       </p>
+</a>
 <a href="https://www.instagram.com/viny_batista_10/">
   <img src="https://hand-landing-page-curved.netlify.app/images/instagram.svg" marginLeft="20" marginRight="20">
-</a><p>       </p>
+</a>
 <a href="https://www.frontendmentor.io/profile/vbanety">
   <img src="https://pbs.twimg.com/profile_images/1047378912819531776/jg7V1u54_400x400.jpg" width="30" height="30" marginLeft="20" marginRight="20">
-</a><p>       </p>
+</a>
 
 </p>
 <!--
