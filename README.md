@@ -3,7 +3,7 @@
 <header display="flex space-between">
 <p align="center">It's Viny here, I’m currently working on TIVIT as SUPPORT SERVICE DESK, and keeping a hard routine in studies for to become a FrondEnd Developer.</p>
   
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="250" height="250">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="250" height="250" align="right">
 </header>
 
 
