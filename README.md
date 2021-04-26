@@ -6,7 +6,7 @@ It's Viny here, I’m currently working on TIVIT as SUPPORT SERVICE DESK, and ke
 
 
 ## Connect with ME 👋 😃
-[![linkedin](https://www.linkedin.com/in/vinicius-batista-815983137/)]
+- [![linkedin](https://www.linkedin.com/in/vinicius-batista-815983137/)]
 <!--
 **Vbanety/Vbanety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
