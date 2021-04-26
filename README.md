@@ -1,9 +1,12 @@
 ### Hi there 👋
 It's Viny here, I’m currently working on TIVIT as SUPPORT SERVICE DESK, and keeping a hard routine in studies for to become a FrondEnd Developer.
 
-<div width=250 heigth=250>
+
 ![Bunner](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
-</div>
+
+
+## Connect with ME 👋 😃
+[![linkedin](https://www.linkedin.com/in/vinicius-batista-815983137/)]
 <!--
 **Vbanety/Vbanety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
