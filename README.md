@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<header display="flex space-between">
-<p align="center">It's Viny here, I’m currently working on TIVIT as SUPPORT SERVICE DESK, and keeping a hard routine in studies for to become a FrondEnd Developer.</p>
+<header display="flex">
+<p align="center" width="400">It's Viny here, I’m currently working on TIVIT as SUPPORT SERVICE DESK, and keeping a hard routine in studies for to become a FrondEnd Developer.</p>
   
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="250" height="250" position="relative" float="right" border-radius="20">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" height="300" position="relative" float="right" border-radius="20">
 </header>
 
 
