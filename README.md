@@ -6,7 +6,7 @@
 
 <p align="left">Lately I sell assimilating the logic, semantics and concept in programming with a lot of practice, even though I have a short time to dedicate myself, I always try to align my routine to obtain good results.</p>
 
-<p align="left">My goal with tecnology is to create your.</p>
+<p align="left">My goal is to add value to the company or team, seeking innovation and being prepared to act in solving problems that impact the end customer.</p>
 <br>
 <br>
 <br>
