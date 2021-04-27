@@ -1,21 +1,20 @@
 ### Hi there 👋
 
 <header display="flex-inline">
-  
-  <img src="https://i.ibb.co/1dSK4zz/profile-git.png" width="100%" height="400" position="absolute" float="right" >
+  <img src="https://i.ibb.co/1dSK4zz/profile-git.png" width="100%" height="400" alt="logo-header">
 </header>
 
 <p width="400">It's Viny here, I’m currently working on TIVIT as SUPPORT SERVICE DESK, and keeping a hard routine in studies for to become a FrondEnd Developer.
 This is my skill that I'm specializing.</p>
 
-<i display="flex-inline" align="center">
-  <img src="https://i.ibb.co/fk0xGfg/html5.png" alt="icon-html5" width="80" height="80" margin-right="5px">
-  <img src="https://i.ibb.co/TcfYZTt/css3.png" alt="icon-css3" width="80" height="80">
-  <img src="https://i.ibb.co/BPpkD35/js.png" alt="icon-js" width="80" height="80">
-  <img src="https://i.ibb.co/31P7bP9/database-sql1.png" alt="icon-sql" width="80" height="80">
-  <img src="https://i.ibb.co/nfqvYkW/react.png" alt="react" width="80" height="80">
-  <img src="https://i.ibb.co/dLZg9SP/node.png" alt="react" width="80" height="80">
-</i>
+
+<picture display="flex-inline">
+    <img src="https://i.ibb.co/fk0xGfg/html5.png" alt="icon-html5" width="80" height="80" marginwidth="5">
+    <img src="https://i.ibb.co/TcfYZTt/css3.png" alt="icon-css3" width="80" height="80" marginwidth="5">
+    <img src="https://i.ibb.co/31P7bP9/database-sql1.png" alt="icon-sql" width="80" height="80" marginwidth="5">
+    <img src="https://i.ibb.co/nfqvYkW/react.png" alt="react" width="80" height="80" marginwidth="5">
+    <img src="https://i.ibb.co/dLZg9SP/node.png" alt="react" width="80" height="80" marginwidth="5">
+</picture>
 
 
 ## Connect with ME 👋 😃
