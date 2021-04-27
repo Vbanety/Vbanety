@@ -1,5 +1,5 @@
-### Hi there 👋 WELCOME TO MY PROFILE.
-<img src="https://i.ibb.co/1dSK4zz/profile-git.png" min-width="600px" max-width="600px" width="400px" align="right" alt="Computador iuriCode">
+<h1 align="center">Hi there 👋 WELCOME TO MY PROFILE.</h1>
+<img src="https://i.ibb.co/1dSK4zz/profile-git.png" min-width="600px" max-width="600px" width="500px" align="right" alt="Computador iuriCode">
 
 <p align="left">It's Viny here, I’m currently working on TIVIT as SUPPORT SERVICE DESK, and keeping a hard routine in studies for to become a FrondEnd Developer.
 </p>
@@ -10,7 +10,7 @@
 <br>
 <br>
 <br>
-<table style="align:center">
+<table align="center">
         <tr>
             <th><img src="https://i.ibb.co/fk0xGfg/html5.png" alt="icon-html5" width="60" height="60"></th>
             <th><img src="https://i.ibb.co/TcfYZTt/css3.png" alt="icon-css3" width="60" height="60" marginwidth="5px"></th>
