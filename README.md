@@ -10,7 +10,7 @@
 <br>
 <br>
 <br>
-<p align="center" witdth="60%">I'm using these technologies to build my own projects, challenges in building responsive pages, API data structure with json in javascript, route management with noje.js.</p>
+<h1 align="center">TECNOLOGIES</h1>
 <table align="center">
         <tr>
             <th style="display:flex"><img src="https://i.ibb.co/fk0xGfg/html5.png" alt="icon-html5" width="50" height="60"></th>
@@ -29,7 +29,8 @@
             <th><span>Node.js</span></th>
         </tr>
     </table>
-
+<p align="center" witdth="60%">I'm using these technologies to build my own projects, challenges in building responsive pages, API data structure with json in javascript, route management with noje.js.</p>
+<br>
 ## Connect with ME 👋 😃
 <br>
 <p align="left" backgroundcolor="#4d0099" width="100%">
