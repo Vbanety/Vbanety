@@ -8,9 +8,15 @@
 <p width="400">It's Viny here, I’m currently working on TIVIT as SUPPORT SERVICE DESK, and keeping a hard routine in studies for to become a FrondEnd Developer.
 This is my skill that I'm specializing.</p>
 
-<picture align="center">
-  <img src="./assets/html5.png">
-  </picture>
+<img src="https://ibb.co/FJkMy7P" alt="">
+<img src="https://ibb.co/WPCt9Qk" alt="">
+<img src="https://ibb.co/BPpkD35" alt="">
+<img src="https://ibb.co/fk0xGfg" alt="">
+<img src="https://ibb.co/31P7bP9" alt="">
+<img src="https://ibb.co/TcfYZTt" alt="">
+
+  
+
 
 ## Connect with ME 👋 😃
 <p align="left" backgroundcolor="#4d0099" width="100%">
