@@ -1,14 +1,15 @@
 ### Hi there 👋 WELCOME TO MY PROFILE.
+<img src="https://i.ibb.co/1dSK4zz/profile-git.png" min-width="600px" max-width="600px" width="400px" align="right" alt="Computador iuriCode">
 
-<header display="flex-inline">
-  <img src="https://i.ibb.co/1dSK4zz/profile-git.png" width="100%" height="400" alt="logo-header">
-</header>
+<p align="left">It's Viny here, I’m currently working on TIVIT as SUPPORT SERVICE DESK, and keeping a hard routine in studies for to become a FrondEnd Developer.
+</p>
 
-<p width="400">It's Viny here, I’m currently working on TIVIT as SUPPORT SERVICE DESK, and keeping a hard routine in studies for to become a FrondEnd Developer.
-This is my skill that I'm specializing.</p>
+<p align="left">Lately I sell assimilating the logic, semantics and concept in programming with a lot of practice, even though I have a short time to dedicate myself, I always try to align my routine to obtain good results.</p>
 
-
-
+<p align="left">My goal with tecnology is to create your.</p>
+<br>
+<br>
+<br>
 <table style="align:center">
         <tr>
             <th><img src="https://i.ibb.co/fk0xGfg/html5.png" alt="icon-html5" width="60" height="60"></th>
@@ -20,8 +21,8 @@ This is my skill that I'm specializing.</p>
         </tr>
     </table>
 
-
 ## Connect with ME 👋 😃
+<br>
 <p align="left" backgroundcolor="#4d0099" width="100%">
 <a href="https://www.linkedin.com/in/vinicius-batista-815983137/">
   <img src="https://hand-landing-page-curved.netlify.app/images/facebook.svg">
