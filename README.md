@@ -12,12 +12,12 @@
 <br>
 <table align="center">
         <tr>
-            <th style="display:flex"><img src="https://i.ibb.co/fk0xGfg/html5.png" alt="icon-html5" width="60" height="60"><span>HTML5</span></th>
-            <th><img src="https://i.ibb.co/TcfYZTt/css3.png" alt="icon-css3" width="60" height="60" marginwidth="5px"><span>CSS3</span></th>
-            <th><img src="https://i.ibb.co/j5NtKfP/js.png" alt="icon-js" width="60" height="60" marginwidth="5px"><span>Javascript</span></th>
-            <th><img src="https://i.ibb.co/31P7bP9/database-sql1.png" alt="icon-sql" width="60" height="60" marginwidth="5px"><span>SQLite</span></th>
-            <th><img src="https://i.ibb.co/nfqvYkW/react.png" alt="react" width="60" height="60" marginwidth="5px"><span>React</span></th>
-            <th><img src="https://i.ibb.co/dLZg9SP/node.png" alt="react" width="60" height="60" marginwidth="5px"><span>Node.js</span></th>
+            <th style="display:flex"><img src="https://i.ibb.co/fk0xGfg/html5.png" alt="icon-html5" width="60" height="60"></th>
+            <th><img src="https://i.ibb.co/TcfYZTt/css3.png" alt="icon-css3" width="60" height="60" marginwidth="5px"></th>
+            <th><img src="https://i.ibb.co/j5NtKfP/js.png" alt="icon-js" width="60" height="60" marginwidth="5px"></th>
+            <th><img src="https://i.ibb.co/31P7bP9/database-sql1.png" alt="icon-sql" width="60" height="60" marginwidth="5px"></th>
+            <th><img src="https://i.ibb.co/nfqvYkW/react.png" alt="react" width="60" height="60" marginwidth="5px"></th>
+            <th><img src="https://i.ibb.co/dLZg9SP/node.png" alt="react" width="60" height="60" marginwidth="5px"></th>
         </tr>
         <tr>
             <th><span>HTML5</span></th>
