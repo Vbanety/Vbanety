@@ -35,9 +35,9 @@
 ## Connect with ME 👋 😃
 <br>
 <p align="left" backgroundcolor="#4d0099" width="100%">
-<a href="https://www.linkedin.com/in/vinicius-batista-815983137/">
+<!-- <a href="https://www.linkedin.com/in/vinicius-batista-815983137/">
   <img src="https://hand-landing-page-curved.netlify.app/images/facebook.svg">
-</a>
+</a> -->
 <a href="https://www.instagram.com/viny_batista_10/">
   <img src="https://hand-landing-page-curved.netlify.app/images/instagram.svg">
 </a>
