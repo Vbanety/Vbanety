@@ -10,14 +10,15 @@
 <br>
 <br>
 <br>
+<p align="center" witdth="60%">I'm using these technologies to build my own projects, challenges in building responsive pages, API data structure with json in javascript, route management with noje.js.</p>
 <table align="center">
         <tr>
-            <th style="display:flex"><img src="https://i.ibb.co/fk0xGfg/html5.png" alt="icon-html5" width="60" height="60"></th>
-            <th><img src="https://i.ibb.co/TcfYZTt/css3.png" alt="icon-css3" width="60" height="60" marginwidth="5px"></th>
-            <th><img src="https://i.ibb.co/j5NtKfP/js.png" alt="icon-js" width="60" height="60" marginwidth="5px"></th>
-            <th><img src="https://i.ibb.co/31P7bP9/database-sql1.png" alt="icon-sql" width="60" height="60" marginwidth="5px"></th>
-            <th><img src="https://i.ibb.co/nfqvYkW/react.png" alt="react" width="60" height="60" marginwidth="5px"></th>
-            <th><img src="https://i.ibb.co/dLZg9SP/node.png" alt="react" width="60" height="60" marginwidth="5px"></th>
+            <th style="display:flex"><img src="https://i.ibb.co/fk0xGfg/html5.png" alt="icon-html5" width="50" height="60"></th>
+            <th><img src="https://i.ibb.co/TcfYZTt/css3.png" alt="icon-css3" width="60" height="50" marginwidth="5px"></th>
+            <th><img src="https://i.ibb.co/j5NtKfP/js.png" alt="icon-js" width="60" height="50" marginwidth="5px"></th>
+            <th><img src="https://i.ibb.co/31P7bP9/database-sql1.png" alt="icon-sql" width="50" height="60" marginwidth="5px"></th>
+            <th><img src="https://i.ibb.co/nfqvYkW/react.png" alt="react" width="60" height="50" marginwidth="5px"></th>
+            <th><img src="https://i.ibb.co/dLZg9SP/node.png" alt="react" width="60" height="50" marginwidth="5px"></th>
         </tr>
         <tr>
             <th><span>HTML5</span></th>
