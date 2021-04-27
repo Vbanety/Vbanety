@@ -8,25 +8,29 @@
 This is my skill that I'm specializing.</p>
 
 
-<picture display="flex-inline">
-    <img src="https://i.ibb.co/fk0xGfg/html5.png" alt="icon-html5" width="80" height="80" marginwidth="5">
-    <img src="https://i.ibb.co/TcfYZTt/css3.png" alt="icon-css3" width="80" height="80" marginwidth="5">
-    <img src="https://i.ibb.co/31P7bP9/database-sql1.png" alt="icon-sql" width="80" height="80" marginwidth="5">
-    <img src="https://i.ibb.co/nfqvYkW/react.png" alt="react" width="80" height="80" marginwidth="5">
-    <img src="https://i.ibb.co/dLZg9SP/node.png" alt="react" width="80" height="80" marginwidth="5">
-</picture>
+
+<table style="align:center">
+        <tr>
+            <th><img src="https://i.ibb.co/fk0xGfg/html5.png" alt="icon-html5" width="60" height="60"></th>
+            <th><img src="https://i.ibb.co/TcfYZTt/css3.png" alt="icon-css3" width="60" height="60" marginwidth="5px"></th>
+            <th><img src="https://i.ibb.co/j5NtKfP/js.png" alt="icon-js" width="60" height="60" marginwidth="5px"></th>
+            <th><img src="https://i.ibb.co/31P7bP9/database-sql1.png" alt="icon-sql" width="60" height="60" marginwidth="5px"></th>
+            <th><img src="https://i.ibb.co/nfqvYkW/react.png" alt="react" width="60" height="60" marginwidth="5px"></th>
+            <th><img src="https://i.ibb.co/dLZg9SP/node.png" alt="react" width="60" height="60" marginwidth="5px"></th>
+        </tr>
+    </table>
 
 
 ## Connect with ME 👋 😃
 <p align="left" backgroundcolor="#4d0099" width="100%">
 <a href="https://www.linkedin.com/in/vinicius-batista-815983137/">
-  <img src="https://hand-landing-page-curved.netlify.app/images/facebook.svg" marginLeft="20" marginRight="20">
+  <img src="https://hand-landing-page-curved.netlify.app/images/facebook.svg">
 </a>
 <a href="https://www.instagram.com/viny_batista_10/">
-  <img src="https://hand-landing-page-curved.netlify.app/images/instagram.svg" marginLeft="20" marginRight="20">
+  <img src="https://hand-landing-page-curved.netlify.app/images/instagram.svg">
 </a>
 <a href="https://www.frontendmentor.io/profile/vbanety">
-  <img src="https://pbs.twimg.com/profile_images/1047378912819531776/jg7V1u54_400x400.jpg" width="30" height="30" marginLeft="20" marginRight="20">
+  <img src="https://pbs.twimg.com/profile_images/1047378912819531776/jg7V1u54_400x400.jpg" width="30" height="30">
 </a>
 
 </p>
