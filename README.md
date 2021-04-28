@@ -1,4 +1,17 @@
+<div style="display: flex">
 <h1 align="center">Hi there 👋 WELCOME TO MY PROFILE.</h1>
+    <table align="right">
+            <h3>choose the language</h3>
+        <tr>
+            <th><span>Brazil</span></th>
+            <th><span>USA</span></th>
+        </tr>
+        <tr>
+            <th><span>:brazil:</span></th>
+            <th><span>:liberia:</span></th>
+        </tr>
+    </table>
+</div>
 <img src="https://i.ibb.co/1dSK4zz/profile-git.png" min-width="600px" max-width="600px" width="500px" align="right" alt="Computador iuriCode">
 
 <p align="left">It's Viny here, I’m currently working on TIVIT as SUPPORT SERVICE DESK, and keeping a hard routine in studies for to become a FrondEnd Developer.
