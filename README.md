@@ -1,6 +1,6 @@
 <table align="right">
         <tr>
-            <th><span>Brazil</span></th>
+            <th><span>[Brazil](../../pt-br.md)</span></th>
             <th><span>USA</span></th>
         </tr>
         <tr>
@@ -8,6 +8,7 @@
             <th><span>:liberia:</span></th>
         </tr>
     </table>
+    #### Mudar para português: <kbd>(../../pt-br.md)</kbd>
 <div style="display: flex">
 <h1 align="center">Hi there 👋 WELCOME TO MY PROFILE.</h1>
     
@@ -57,7 +58,7 @@
   <a href = "mailto: vbanetyy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-batista-815983137/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/viny_batista_10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.frontendmentor.io/profile/vbanety"><img src="https://i.ibb.co/mzkTj6p/Component-5.png">
+  <a href="https://www.frontendmentor.io/profile/vbanety" target="_blank><img src="https://i.ibb.co/mzkTj6p/Component-5.png">
 </a>
 </div>   
 
