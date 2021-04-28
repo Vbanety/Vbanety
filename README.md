@@ -41,7 +41,7 @@
   <a href = "mailto: vbanetyy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-batista-815983137/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/viny_batista_10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.frontendmentor.io/profile/vbanety"><img src="https://pbs.twimg.com/profile_images/1047378912819531776/jg7V1u54_400x400.jpg" width="30" height="30">
+  <a href="https://www.frontendmentor.io/profile/vbanety"><img src="https://i.ibb.co/mzkTj6p/Component-5.png">
 </a>
 </div>   
 
