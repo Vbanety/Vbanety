@@ -1,6 +1,7 @@
+[Brazil](pt-br.md)
 <table align="right">
         <tr>
-            <th><span>[Brazil](../../pt-br.md)</span></th>
+            <th><span>Brazil</span></th>
             <th><span>USA</span></th>
         </tr>
         <tr>
@@ -8,7 +9,7 @@
             <th><span>:liberia:</span></th>
         </tr>
     </table>
-    #### Mudar para português: <kbd>(../../pt-br.md)</kbd>
+    
 <div style="display: flex">
 <h1 align="center">Hi there 👋 WELCOME TO MY PROFILE.</h1>
     
