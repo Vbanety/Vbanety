@@ -1,7 +1,5 @@
-<div style="display: flex">
-<h1 align="center">Hi there 👋 WELCOME TO MY PROFILE.</h1>
-    <table align="right">
-            <h3>choose the language</h3>
+<table align="right">
+            <h3 align="right">choose the language</h3>
         <tr>
             <th><span>Brazil</span></th>
             <th><span>USA</span></th>
@@ -11,6 +9,9 @@
             <th><span>:liberia:</span></th>
         </tr>
     </table>
+<div style="display: flex">
+<h1 align="center">Hi there 👋 WELCOME TO MY PROFILE.</h1>
+    
 </div>
 <img src="https://i.ibb.co/1dSK4zz/profile-git.png" min-width="600px" max-width="600px" width="500px" align="right" alt="Computador iuriCode">
 
