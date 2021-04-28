@@ -47,8 +47,11 @@
     
 <p align="center" witdth="60%">I'm using these technologies to build my own projects, challenges in building responsive pages, API data structure with json in javascript, route management with noje.js.</p>
 <br>
-## Connect with ME 👋 😃
+<h2 align="center">
+        <strong>Connect with ME 👋 😃</strong>
+        </p>
 <br>
+
 
 <div align="center" backgroundcolor="#4d0099" width="100%">
   <a href = "mailto: vbanetyy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
