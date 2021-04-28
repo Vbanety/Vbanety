@@ -19,12 +19,12 @@
 <h1 align="center">TECNOLOGIES</h1>
 <table align="center">
         <tr background-color="#ffffff">
-            <th><img src="https://i.ibb.co/fk0xGfg/html5.png" alt="icon-html5" width="50" height="60"></th>
-            <th><img src="https://i.ibb.co/TcfYZTt/css3.png" alt="icon-css3" width="60" height="50" marginwidth="5px"></th>
-            <th><img src="https://i.ibb.co/j5NtKfP/js.png" alt="icon-js" width="60" height="50" marginwidth="5px"></th>
-            <th><img src="https://i.ibb.co/31P7bP9/database-sql1.png" alt="icon-sql" width="50" height="60" marginwidth="5px"></th>
-            <th><img src="https://i.ibb.co/nfqvYkW/react.png" alt="react" width="60" height="50" marginwidth="5px"></th>
-            <th><img src="https://i.ibb.co/dLZg9SP/node.png" alt="react" width="60" height="50" marginwidth="5px"></th>
+            <th width="50" height="60"><img src="https://i.ibb.co/fk0xGfg/html5.png" alt="icon-html5" ></th>
+            <th width="60" height="50"><img src="https://i.ibb.co/TcfYZTt/css3.png" alt="icon-css3" marginwidth="5px"></th>
+            <th width="60" height="50"><img src="https://i.ibb.co/j5NtKfP/js.png" alt="icon-js" width="60" height="50" marginwidth="5px"></th>
+            <th width="60" height="50"><img src="https://i.ibb.co/31P7bP9/database-sql1.png" alt="icon-sql" marginwidth="5px"></th>
+            <th width="60" height="50"><img src="https://i.ibb.co/nfqvYkW/react.png" alt="react"  marginwidth="5px"></th>
+            <th><img src="https://i.ibb.co/dLZg9SP/node.png" alt="node" width="60" height="50" marginwidth="5px"></th>
         </tr>
         <tr>
             <th><span>HTML5</span></th>
