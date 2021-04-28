@@ -39,11 +39,12 @@
 
     
 <p align="center" witdth="60%">I'm using these technologies to build my own projects, challenges in building responsive pages, API data structure with json in javascript, route management with noje.js.</p>
-<img align="center" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" height="200">
+
 <br>
 <h2 align="center">
         <strong>Connect with ME 👋 😃</strong>
         </p>
+        <img align="center" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" height="200">
 <br>
 
 
