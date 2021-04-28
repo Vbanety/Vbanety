@@ -1,4 +1,5 @@
-[Brazil](pt-br.md)
+:brazil: [Brazil](pt-br.md)
+:liberia: [USA](README.md)
 <table align="right">
         <tr>
             <th><span>Brazil</span></th>
