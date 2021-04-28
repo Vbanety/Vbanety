@@ -1,5 +1,4 @@
 <table align="right">
-            <h3 align="right">choose the language</h3>
         <tr>
             <th><span>Brazil</span></th>
             <th><span>USA</span></th>
