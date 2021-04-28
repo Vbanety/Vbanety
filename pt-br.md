@@ -51,7 +51,7 @@
 <p align="center" witdth="60%">Estou usando essas tecnologias para construir meus próprios projetos, desafios na construção de páginas responsivas, estrutura de dados API com json em javascript, gerenciamento de rotas com node.js.</p>
 <br>
 <h2 align="center">
-        <strong>Connect with ME 👋 😃</strong>
+        <strong>Vamos nos conectar 👋 😃</strong>
         </p>
         <img align="center" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" height="200">
 <br>
