@@ -30,23 +30,20 @@
         </tr>
     </table>
     
+
+    
 <p align="center" witdth="60%">I'm using these technologies to build my own projects, challenges in building responsive pages, API data structure with json in javascript, route management with noje.js.</p>
 <br>
 ## Connect with ME 👋 😃
 <br>
 
-<div align="right" backgroundcolor="#4d0099" width="100%">
+<div align="center" backgroundcolor="#4d0099" width="100%">
   <a href = "mailto: vbanetyy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-batista-815983137/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/viny_batista_10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.frontendmentor.io/profile/vbanety"><img src="https://pbs.twimg.com/profile_images/1047378912819531776/jg7V1u54_400x400.jpg" width="30" height="30">
 </a>
-
 </div>   
-
-<a href="https://www.frontendmentor.io/profile/vbanety">
-  <img src="https://img.shields.io/github/issues-search/vbanety/vbanety" width="30" height="30">
-</a>
 
 
 <!--
