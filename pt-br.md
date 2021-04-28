@@ -48,7 +48,7 @@
     
 
     
-<p align="center" witdth="60%">Estou usando essas tecnologias para construir meus próprios projetos, desafios na construção de páginas responsivas, estrutura de dados API com json em javascript, gerenciamento de rotas com noje.js.</p>
+<p align="center" witdth="60%">Estou usando essas tecnologias para construir meus próprios projetos, desafios na construção de páginas responsivas, estrutura de dados API com json em javascript, gerenciamento de rotas com node.js.</p>
 <br>
 <h2 align="center">
         <strong>Connect with ME 👋 😃</strong>
