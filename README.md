@@ -1,15 +1,4 @@
-:brazil: [Brazil](pt-br.md)
-:liberia: [USA](README.md)
-<table align="right">
-        <tr>
-            <th><span>Brazil</span></th>
-            <th><span>USA</span></th>
-        </tr>
-        <tr>
-            <th><span>:brazil:</span></th>
-            <th><span>:liberia:</span></th>
-        </tr>
-    </table>
+:brazil:[Brazil](pt-br.md)
     
 <div style="display: flex">
 <h1 align="center">Hi there 👋 WELCOME TO MY PROFILE.</h1>
