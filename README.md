@@ -27,12 +27,12 @@
             <th><img src="https://i.ibb.co/dLZg9SP/node.png" alt="node" width="60" height="50" marginwidth="5px"></th>
         </tr>
         <tr>
-            <th><span>HTML5</span></th>
-            <th><span>CSS3</span></th>
-            <th><span>Javascript</span></th>
-            <th><span>SQLite</span></th>
-            <th><span>React</span></th>
-            <th><span>Node.js</span></th>
+            <th width="50" height="60"><span>HTML5</span></th>
+            <th width="50" height="60"><span>CSS3</span></th>
+            <th width="50" height="60"><span>Javascript</span></th>
+            <th width="50" height="60"><span>SQLite</span></th>
+            <th width="50" height="60"><span>React</span></th>
+            <th width="50" height="60"><span>Node.js</span></th>
         </tr>
     </table>
     
