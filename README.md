@@ -7,7 +7,7 @@
 </div>
 <img src="https://i.ibb.co/1dSK4zz/profile-git.png" min-width="600px" max-width="600px" width="500px" align="right" alt="Computador iuriCode">
 
-<p align="left">It's Viny here, I’m currently working on TIVIT as SUPPORT SERVICE DESK, and keeping a hard routine in studies for to become a FrondEnd Developer.
+<p align="left">It's Viny here, I’m currently working on DXC Technology as SUPPORT SERVICE DESK, and keeping a hard routine in studies for to become a FrondEnd Developer.
 </p>
 
 <p align="left">Lately I sell assimilating the logic, semantics and concept in programming with a lot of practice, even though I have a short time to dedicate myself, I always try to align my routine to obtain good results.</p>
