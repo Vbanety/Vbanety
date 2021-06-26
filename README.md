@@ -38,7 +38,7 @@
     
 
     
-<p align="center" witdth="60%">I'm using these technologies to build my own projects, challenges in building responsive pages, API data structure with json in javascript, route management with noje.js.</p>
+<p align="center" witdth="60%">I'm using these technologies to build my own projects, challenges in building responsive pages, API data structure with json in javascript, route management with node.js.</p>
 
 <br>
 <h2 align="center">
