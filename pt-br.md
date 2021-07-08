@@ -17,7 +17,7 @@
 </div>
 <img src="https://i.ibb.co/1dSK4zz/profile-git.png" min-width="600px" max-width="600px" width="500px" align="right" alt="Computador iuriCode">
 
-<p align="left">Aqui é o Viny, atualmente estou trabalhando no TIVIT como SUPPORT SERVICE DESK, e mantendo uma rotina rígida nos estudos para me tornar um desenvolvedor FrondEnd.
+<p align="left">Aqui é o Viny, atualmente estou trabalhando na DXC Technology como SUPORTE SERVICE DESK, e mantendo uma rotina rígida nos estudos para me tornar um desenvolvedor FrondEnd.
 </p>
 
 <p align="left">Ultimamente vendo assimilando a lógica, semântica e conceito em programação com muita prática, mesmo tendo pouco tempo para me dedicar, procuro sempre alinhar minha rotina para obter bons resultados.</p>
