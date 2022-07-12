@@ -22,7 +22,7 @@
   <img align="center" alt="Vini-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Vini-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Vini-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Vini-api" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+  
   
 </div>
 
@@ -39,6 +39,7 @@
 </div>
 
 <!--
+<img align="center" alt="Vini-api" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
 ![Snake animation](https://github.com/vbanety/vbanety/blob/output/github-contribution-grid-snake.svg)
 :brazil:[Brazil](pt-br.md)
 :liberia:[USA](README.md)
