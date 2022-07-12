@@ -4,7 +4,7 @@
 - 📫 How to reach me: vbanetyy@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm living talking alone.
-<img style="margin-top: 2rem" align="right" alt="Vini-avatar" height="120" width="120" src="https://current-portfolio-delta.vercel.app/assets/headerAvatar.ef19d2ed.svg">
+
 
 <div align="center">
   <a href="https://github.com/vbanety">
@@ -39,6 +39,7 @@
 </div>
 
 <!--
+<img style="margin-top: 2rem" align="right" alt="Vini-avatar" height="120" width="120" src="https://current-portfolio-delta.vercel.app/assets/headerAvatar.ef19d2ed.svg">
 <img align="center" alt="Vini-api" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
 ![Snake animation](https://github.com/vbanety/vbanety/blob/output/github-contribution-grid-snake.svg)
 :brazil:[Brazil](pt-br.md)
