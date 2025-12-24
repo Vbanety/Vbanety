@@ -1,5 +1,5 @@
 ## Hi there I'm Vinicius
-- 🔭 I’m currently working on Sety Tecnologia as a frontend developer.
+- 🔭 I’m currently working on Vmarket as a fullstack developer.
 - 🌱 I’m currently learning TypeScript and TailWind
 - 📫 How to reach me: +55 12 98259-0753
 - 👯 I’m looking to collaborate on open source projects for web and mobile in reactjs / react-native
